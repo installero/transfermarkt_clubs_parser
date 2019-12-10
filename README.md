@@ -1,15 +1,14 @@
-1) Можно попробовать сделать парсер, совмещающий данные разных сайтов. на пример с одного сайта берем состав футбольной команды
+Парсер клубов с сайта https://www.transfermarkt.com, который написали на стримах:
 
-https://www.livescore.com/soccer/russia/premier-league/
+Первая часть: https://youtu.be/_LNcuGqbmoY
 
-и цены контрактов игроков (
+Вторая часть: https://youtu.be/3BW7zISHri0
 
-transfermarkt.com/premier-liga/startseite/wettbewerb/RU1
+Идея от Георгия:
 
-).
-
-2) Сочетание парсера и телеграмм-бота: например, в телеге формируем запрос в парсер, далее ответ приходит в телегу или на веб-страницу.
-
+> Можно попробовать сделать парсер, совмещающий данные разных сайтов. на пример с одного сайта берем состав футбольной команды
+> https://www.livescore.com/soccer/russia/premier-league/
+> и цены контрактов игроков (transfermarkt.com/premier-liga/startseite/wettbewerb/RU1).
 
 Пример страницы со списком игроков команды:
 
