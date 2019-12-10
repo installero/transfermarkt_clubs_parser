@@ -13,3 +13,9 @@
 Пример страницы со списком игроков команды:
 
 https://www.transfermarkt.com/zenit-st-petersburg/startseite/verein/964/saison_id/2019
+
+Чат и бесплатный курс по руби:
+
+https://rubyrush.ru/
+
+http://t-do.ru/rubyrush
